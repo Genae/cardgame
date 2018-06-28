@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Name: Earth
   m_EditorClassIdentifier: 
   Name: Earth
-  Color: {r: 0.10762496, g: 0.5188679, b: 0.090557136, a: 1}
+  Bubble: {fileID: 21300000, guid: 79c0c81a604035741aaa3aa60af62c9c, type: 3}

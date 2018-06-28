@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3331e214726963e489f7aa45ccc9918c, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: 
-  Name: 
-  Color: {r: 0.20652366, g: 0.23550409, b: 0.8584906, a: 1}
+  Name: Water
+  Bubble: {fileID: 21300000, guid: ed197e965888aa0408784aa08568a5b5, type: 3}

@@ -7,6 +7,6 @@ namespace Assets.Scripts.ScriptableObjects
     public class ElementData : ScriptableObject
     {
         public string Name;
-        public Color Color;
+        public Sprite Bubble;
     }
 }

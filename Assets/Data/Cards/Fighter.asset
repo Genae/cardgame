@@ -13,7 +13,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Fighter
   Artwork: {fileID: 21300000, guid: c848c93ee1905b849915d753e7948826, type: 3}
-  Attack: 2
-  Hitpoints: 2
-  Defense: 0
+  Attack: 5
+  Hitpoints: 3
+  Defense: 2
   Piercing: 0
+  Cost:
+    _Buckets: 01000000ffffffff00000000
+    _HashCodes: 0a0a0000820b000000000000
+    _Next: ffffffffffffffff00000000
+    _Count: 2
+    _Version: 40
+    _FreeList: -1
+    _FreeCount: 0
+    _Keys:
+    - {fileID: 11400000, guid: 096a73c44bfb02146878234e8360755a, type: 2}
+    - {fileID: 11400000, guid: 12a092dcfdcbac64bbb099c459e92930, type: 2}
+    - {fileID: 0}
+    _Values: 020000000100000000000000

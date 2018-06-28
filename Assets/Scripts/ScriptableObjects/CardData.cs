@@ -1,4 +1,5 @@
 ﻿using System;
+using Assets.Scripts.Cards;
 using UnityEngine;
 
 namespace Assets.Scripts.ScriptableObjects
@@ -12,5 +13,6 @@ namespace Assets.Scripts.ScriptableObjects
         public int Hitpoints;
         public int Defense;
         public int Piercing;
+        public Cost Cost;
     }
 }
